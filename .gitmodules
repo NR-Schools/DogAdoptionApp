@@ -1,0 +1,9 @@
+[submodule "DogAdoptionWebsite"]
+	path = DogAdoptionWebsite
+	url = https://github.com/NR-Schools/AppDev-AngularWebSite
+[submodule "DogAdoptionServer"]
+	path = DogAdoptionServer
+	url = https://github.com/NR-Schools/AppDev-SpringBootServer
+[submodule "DogAdoptionAndroid"]
+	path = DogAdoptionAndroid
+	url = https://github.com/NR-Schools/AppDev-AndroidApp
